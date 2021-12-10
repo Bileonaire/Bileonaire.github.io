@@ -141,6 +141,18 @@ h4 a:hover {
   text-decoration: none;
 }
 
+.aboutLeon>a {
+  color: blue;
+  font-weight: 600;
+  text-decoration: underline;
+}
+
+.scopeDesc>a {
+  color: blue;
+  font-weight: 600;
+  text-decoration: underline;
+}
+
 .heading {
   font-size: 24px;
   font-weight: 700;
