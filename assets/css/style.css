@@ -147,6 +147,20 @@ h4 a:hover {
   text-decoration: underline;
 }
 
+.project_links {
+  font-weight: 300;
+  font-size: small;
+}
+
+.project_links>a {
+    color: blue;
+    cursor: pointer;
+}
+
+.project_links>a :hover {
+  font-weight: 400;
+  color: #e9204f;
+}
 .scopeDesc>a {
   color: blue;
   font-weight: 600;
@@ -158,6 +172,7 @@ h4 a:hover {
   font-weight: 700;
   margin-top: -5px;
 }
+
 @media (min-width: 768px) {
   .heading {
     font-size: 28px;
